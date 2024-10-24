@@ -25,7 +25,7 @@
   "isRequired": false,
   "isVisible": true,
   "key": "53su3ovy2h",
-  "label": "amount to convert",
+  "label": "amount to convert currency",
   "labelAlignment": "left",
   "labelPosition": "Top",
   "labelStyle": "",

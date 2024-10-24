@@ -33,7 +33,7 @@
   "resetFormOnClick": false,
   "responsiveBehavior": "hug",
   "rightColumn": 38,
-  "text": "Cancel",
+  "text": "cancel",
   "topRow": 29,
   "type": "BUTTON_WIDGET",
   "version": 1,
