@@ -7,7 +7,7 @@
   "bottomRow": 27,
   "boxShadow": "none",
   "decimals": 0,
-  "defaultCurrencyCode": "INR",
+  "defaultCurrencyCode": "USD",
   "defaultText": "",
   "dynamicBindingPathList": [
     {
@@ -18,13 +18,14 @@
     }
   ],
   "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
   "iconAlign": "left",
   "isDisabled": false,
   "isLoading": false,
   "isRequired": false,
   "isVisible": true,
   "key": "53su3ovy2h",
-  "label": "Label",
+  "label": "convert currecy",
   "labelAlignment": "left",
   "labelPosition": "Top",
   "labelStyle": "",
