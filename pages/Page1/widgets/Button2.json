@@ -3,28 +3,26 @@
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "bottomRow": 33,
   "boxShadow": "none",
-  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonColor": "#b91c1c",
   "buttonVariant": "PRIMARY",
   "disabledWhenInvalid": false,
   "dynamicBindingPathList": [
     {
-      "key": "buttonColor"
-    },
-    {
       "key": "borderRadius"
     }
   ],
+  "dynamicTriggerPathList": [],
   "isDefaultClickDisabled": true,
   "isDisabled": false,
   "isLoading": false,
   "isVisible": true,
   "key": "p95rwk4k48",
-  "leftColumn": 19,
+  "leftColumn": 31,
   "minWidth": 120,
-  "mobileBottomRow": 34,
-  "mobileLeftColumn": 21,
-  "mobileRightColumn": 37,
-  "mobileTopRow": 30,
+  "mobileBottomRow": 33,
+  "mobileLeftColumn": 34,
+  "mobileRightColumn": 50,
+  "mobileTopRow": 29,
   "needsErrorInfo": false,
   "parentColumnSpace": 19.15625,
   "parentId": "0",
@@ -34,11 +32,11 @@
   "renderMode": "CANVAS",
   "resetFormOnClick": false,
   "responsiveBehavior": "hug",
-  "rightColumn": 30,
-  "text": "Submit",
+  "rightColumn": 38,
+  "text": "Cancel",
   "topRow": 29,
   "type": "BUTTON_WIDGET",
   "version": 1,
-  "widgetId": "tfimd6l4hz",
-  "widgetName": "Button1"
+  "widgetId": "yprra2odsa",
+  "widgetName": "Button2"
 }
